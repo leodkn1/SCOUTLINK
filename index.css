@@ -14,8 +14,6 @@
    a img {
     width: 30px;
     height: 30px;
-    border: 2px white solid;
-    border-radius: 50%;
    }
 
    a {
@@ -27,7 +25,7 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px white solid;
+    border: 3px white solid;
    }
 
    .center {

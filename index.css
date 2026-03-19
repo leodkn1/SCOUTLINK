@@ -21,5 +21,9 @@
     height: 150px;
     border-radius: 50%;
     border: 5px solid red;
-    align-items: center;
+   }
+
+   .center {
+    text-align: center;
+    
    }

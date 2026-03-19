@@ -72,3 +72,15 @@ main {
     padding: 50px;
     margin: 100px;
 }   
+
+nav a:hover {
+    color: darkred;
+    font-size: 20px;
+    transition: 0.5s;
+}
+
+nav li a[href="perfil.html"] {
+    width: 35px;
+    height: 35px;
+
+}

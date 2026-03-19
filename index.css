@@ -66,6 +66,12 @@
     margin-top: 2px;
     }
     
+    main {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+    
 section {
     display: flex;
     justify-content: space-between;

@@ -62,7 +62,7 @@
     margin-top: 2px;
     }
     
-.information {
+main {
     display: flex;
     justify-content: space-between;
     padding: 50px;

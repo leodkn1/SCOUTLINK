@@ -28,18 +28,14 @@
     border: 3px white solid;
    }
 
-   header h1 {
-    display: flex;      
+   header {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
     align-items: center;
     padding: 25px;
+    
    }
-
-   header h2 {
-    font-size: 20px;
-    text-align: center;
-    padding: 25px;
-   }
-
    .center {
     text-align: center;
     

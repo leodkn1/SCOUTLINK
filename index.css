@@ -68,6 +68,7 @@
     
 section {
     display: flex;
+    justify-content: space-between;
     padding: 50px;
     margin: 100px;
 }   

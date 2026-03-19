@@ -58,13 +58,17 @@
     padding: 70px;
    }
 
+   footer a {
+    text-align: center;
+   }
+
    footer p {
     margin-top: 2px;
     }
     
 main {
     display: flex;
-    justify-content: space-between; margin: 50px;
+    justify-content: space-between;
     padding: 50px;
     margin: 100px;
 }   

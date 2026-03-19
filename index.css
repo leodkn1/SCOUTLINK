@@ -78,7 +78,7 @@ section {
 
 nav a:hover {
     color: darkred;
-    font-size: 10px;
+    font-size: 20px;
     transition: 0.5s;
 }
 

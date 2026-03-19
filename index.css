@@ -72,6 +72,9 @@
     padding: 35px;
 }
 
+section {
+    margin: 60px;
+}
 
 nav a:hover {
     color: darkred;

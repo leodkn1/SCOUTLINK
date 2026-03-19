@@ -68,13 +68,9 @@
     
     main {
     display: flex;
+    margin: 45px;
 }
 
-section {
-    display: flex;
-    padding: 50px;
-    margin: 100px;
-}   
 
 nav a:hover {
     color: darkred;
